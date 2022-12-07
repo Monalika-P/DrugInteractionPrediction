@@ -1,1 +1,1 @@
-# DrugInteractionPrediction
+# Drug Interaction Prediction
